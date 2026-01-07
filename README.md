@@ -123,18 +123,3 @@ http://localhost:5173
 * Deploy project online
 
 ---
-
-## 👨‍💻 Author
-
-Built by **Shobhit Shukla** as a practice project to strengthen full-stack development skills.
-
----
-
-## 📌 Note
-
-This project is built for **learning and interview practice purposes**.
-
-Feel free to fork or improve it.
-
-
-
